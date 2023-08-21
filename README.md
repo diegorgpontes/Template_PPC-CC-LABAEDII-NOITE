@@ -15,6 +15,5 @@
 
 | Etapa   |  Atividades |
 |  :----:   | ----------- |
-| ETAPA 1 | Definição dosproblemas e formação das equipes |
-
+| ETAPA 1 | Definição dos problemas e formação das equipes |
 
