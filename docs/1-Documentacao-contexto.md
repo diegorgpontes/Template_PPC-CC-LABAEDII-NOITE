@@ -1,8 +1,8 @@
-# Introdução
+# 1 Introdução
 
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto e o problema.
 
-# Como usuário, descreva cenários do processo de utilização do software.
+#### 1.1 Como usuário, descreva cenários do processo de utilização do software.
 
 Ex. 
 
